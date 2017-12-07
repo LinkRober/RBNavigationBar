@@ -1,0 +1,6 @@
+framework module RBNavigationBar {
+  umbrella header "RBNavigationBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

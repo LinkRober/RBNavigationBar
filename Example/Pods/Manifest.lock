@@ -1,0 +1,16 @@
+PODS:
+  - RBNavigationBar (0.1.0)
+
+DEPENDENCIES:
+  - RBNavigationBar (from `../`)
+
+EXTERNAL SOURCES:
+  RBNavigationBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RBNavigationBar: 9c8988ff26819cc461c812add292af0e9d1d1b0e
+
+PODFILE CHECKSUM: 9d181280713fa6350bbaf64a2665ed6061dda03c
+
+COCOAPODS: 1.2.1

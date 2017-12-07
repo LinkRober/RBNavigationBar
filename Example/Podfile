@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RBNavigationBar_Example' do
+  pod 'RBNavigationBar', :path => '../'
+
+  target 'RBNavigationBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
